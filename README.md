@@ -2,7 +2,7 @@ Developer : Manimaran.K
 
 Project Abstract:
 
-1.Hospital management system fully designed in Virtual Basic.
+1.Hospital management system fully designed in Virtual Basic.</br>
 2.store all details in data base
 3.new patient details regiter
 4.existing patient are check medicine details
