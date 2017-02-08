@@ -3,6 +3,10 @@
 ##Developer
 >###*Manimaran.K*
 
+##My Blog
+>[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
+
+
 ##Project Abstract
 
 1. Hospital management system fully designed in Virtual Basic.
