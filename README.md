@@ -20,6 +20,8 @@
 1. Install virtual basic
 2. Open hospital.vbp file
 
+## Screen shots
+![Alt text](1_home.png?raw=true "Title")
 
 ## **About me**
         Manimaran.K
