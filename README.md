@@ -21,7 +21,8 @@
 2. Open hospital.vbp file
 
 ## Screen shots
-![Alt text](1_home.png?raw=true "Title")
+
+![](1_home.PNG?raw=true)
 
 ## **About me**
         Manimaran.K
